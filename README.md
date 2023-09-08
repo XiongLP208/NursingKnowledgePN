@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This project mainly focuses on introducing the multimodal knowledge graph we have developed in the field of nursing (Nursing Multimodal Knowledge Graph, NMKG). We have open-sourced a portion of the **code and database** to facilitate further research by others.
+This project mainly focuses on introducing the multimodal knowledge graph we have developed in the field of nursing (Nursing Multimodal Knowledge Graph, NMKG). We have open-sourced of the **code and database** to facilitate further research by others.
 
 The establishment of NMKG effectively integrates various types of data, including clinical databases, nursing training databases, and internet data. The NMKG contains more than 60,000 entities and 300,000 relationships.
 
