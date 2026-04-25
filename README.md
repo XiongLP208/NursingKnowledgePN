@@ -178,7 +178,15 @@ docker run -it zjunlp/knowlm:v.1 /bin/bash
 
 ## Citation
 
-If you use the codes and datasets , please cite the following paper(not published yet).
+If you use the codes and datasets , please cite the following paper.
+```shell
+@article{xiong2023precision,
+  title={Precision Nursing Research Based on Multimodal Knowledge Graph},
+  author={Xiong, Liping and Zeng, Qiqiao and Deng, Wuhong and Luo, Weixiang and Liu, Ronghui},
+  year={2023},
+  DOI={10.21203/rs.3.rs-3629829/v1}
+}
+```
 
 ```
 
